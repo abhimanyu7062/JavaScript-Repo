@@ -14,3 +14,8 @@
 
 //4.  How to convert the string of any base to integer in JavaScript?
 // In JavaScript, parseInt() function is used to convert the string to an integer
+
+//5.Double(==) and Triple(===)
+// Double Equals (==): you want to compare values loosely, and you don't care about the type.
+// Triple Equals (===): you want to ensure both type and value are the same,
+//  which helps avoid unexpected bugs caused by type coercion.
