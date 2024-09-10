@@ -19,3 +19,7 @@
 // Double Equals (==): you want to compare values loosely, and you don't care about the type.
 // Triple Equals (===): you want to ensure both type and value are the same,
 //  which helps avoid unexpected bugs caused by type coercion.
+
+//6.
+ console.log(typeof(Null));  // Undefine
+ console.log(typeof(undefine)); //undefine
