@@ -3,7 +3,9 @@
 
 // 2.What are undeclared and undefined variables?
 // Undefine - When we define a variable but not assign any value that is Undefine
-// Undeclare- when we use typeof of operater to get the value of an undeclare variable,
+// Undeclare- "An undeclared variable is one that has never been declared in 
+// the current scope or any higher scope.
+// when we use typeof of operater to get the value of an undeclare variable,
 // we will face the runtime error with the return value as “undefined”.
 
 //3. How does the this keyword work in JavaScript?
