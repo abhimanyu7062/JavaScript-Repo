@@ -1,7 +1,10 @@
 1. Introduction to Your Experience
 Start with a brief overview of your experience and the technologies you've worked with.
 
-Example: "I have over 2 years of experience in UI development, where I primarily worked with modern JavaScript frameworks like React, along with HTML5, CSS3, and responsive design techniques. During this time, I focused on building and enhancing user interfaces for scalable, responsive web applications."
+Example: "I have over 2 years of experience in UI development, where I primarily worked with
+ modern JavaScript frameworks like React, along with HTML5, CSS3, and responsive design techniques.
+  During this time, 
+ I focused on building and enhancing user interfaces for scalable, responsive web applications."
 
 2. Key Responsibilities and Projects
 Describe some of the main responsibilities you had and highlight important projects you worked on.

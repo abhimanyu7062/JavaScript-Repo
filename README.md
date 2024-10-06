@@ -24,4 +24,8 @@ the period of time in JavaScript where a variable is declared using let or const
 A callback is a function that is passisng function as a argument and it is executed after the completiotion of outer function. 
 Callback oftenly used in asyncronous programing .
 
+# Strict Mode
+Strict mode is design to help for developer to write better code React application.
+when we wrap component it give warning like deprecated api and side effect in render phases
 
+#
