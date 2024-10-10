@@ -1,0 +1,9 @@
+#1 Diff B/W Flex and Grid
+Ans- Flex is used for simple layout in one dimensional like using in header footer and navigation bar
+It is used for responsive
+Grid- is 2 dimensional layout and it is used for complex layout and showing product of list 
+
+#2 Features of ES6
+Ans- let and const , arrow function, rest and spread, destructuring of array, temperate literal,
+  Module, Map 
+Module- it allow to break up your code into seperate files eg- import and export 
