@@ -11,7 +11,7 @@ callBack(data)
     },2000)
 }
 function processData(data) {
-    console.log(`Processing data for user: ${data.name}, Age: ${data.age}`);
+    console.log(Processing data for user: ,data);
 }
 
 // Calling the fetchData function and passing processData as a callback
