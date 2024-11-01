@@ -1,0 +1,5 @@
+Block Element - It start from new line and occupy full width 
+eg - Header , Footer, Div, p tag , list(li)
+Inline Element - It is not start from new line and  take width as a content
+eg- span, a, img, strong, em, br
+ 
