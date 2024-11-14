@@ -17,8 +17,13 @@ the period of time in JavaScript where a variable is declared using let or const
 # 04 Lexical Scope
  Variables in inner functions can access variables in outer functions because of the structure of the code, not because of runtime behavior.
 
- # 05 Closure
- A closure is formed when an inner function "remembers" and continues to access variables from its outer function, even after the outer function has finished executing.
+ # 05 Var, Let & Const
+              Var                              let                             const
+    Define in function scope             Block scope                          Block scope
+    hoisting is possble                  possible in temeperal dead zone
+    re-assign value and re-declare       re-assign value but not re-declare in same  not allowed re-assign and re-declare
+    
+
 
 # 06 Callback
 A callback is a function that is passisng function as a argument and it is executed after the completiotion of outer function. 
