@@ -2,11 +2,17 @@
 // isNaN is a function that return true  when it is not a number otherwise it will return false
 
 // 2.What are undeclared and undefined variables?
-// Undefine - When we define a variable but not assign any value that is Undefine
-// Undeclare- "An undeclared variable is one that has never been declared in 
-// the current scope or any higher scope.
-// when we use typeof of operater to get the value of an undeclare variable,
-// we will face the runtime error with the return value as “undefined”.
+// Undefine - When we define a variable but not assign any value that is Undefine 
+// case 2- when we access variable from their out of scope then error is coming variable is not define
+
+// Undeclare- "An undeclared variable is that without declare let,const,var
+//in strict mode we will find but in non-strict mode showing unexpected result
+'use strict'
+function example() {
+    undeclaredVar = 10;  
+   console.log(undeclaredVar)
+}
+example();
 
 //3. How does the this keyword work in JavaScript?
 // In the global scope, this refers to the global object (e.g., window in browsers).
