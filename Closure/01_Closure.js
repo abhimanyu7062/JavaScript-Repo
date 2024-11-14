@@ -1,15 +1,13 @@
-// what is Closure 
-// Ans - A closure in JavaScript is a function that has access to variables from its outer scope
-// (or surrounding context), even after that outer function has returned
-
-function Outer () {
-    let count = 0;
-    return function inner () {
-        count +=1;
-        console.log(count);
+// what is Closure
+//Ans- a closure happens when an inner function has access to the variables of its outer function, even after the outer function has finished executing.
+const e=10;
+function sum (a){
+    return function (b){
+        return function(c){
+            return function(d){
+                return a+b+c+d+e;
+            }
+        }
     }
 }
-const counter = Outer();
-counter();
-counter();
-counter();
+console.log(sum(1)(2)(3)(4)); // 20
