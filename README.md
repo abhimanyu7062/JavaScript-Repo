@@ -34,13 +34,27 @@ Strict mode is design to help for developer to write better code React applicati
 when we wrap component it give warning like deprecated api and side effect in render phases
 
 ## 1. Introduction to Your Experience
-I have over 2 years of experience in UI development,
-I primarily worked with Modern Javascript library like React, Html ,Css and responsive web techniques.
-During this time, I am focused on building and enhancing user interface for scalable, and responsive web app
+I have over 2 years of experience in UI development.
+I specialize in building dynamic, user-friendly web applications using Modern JavaScript,
+React, and HTML/CSS.
 
+I’ve worked with Material-UI for creating responsive,
+and have experience with Next.js for building server-side rendered and static websites.
 
+In React, I have worked on  functional components, state and props management, hooks (like useState, useEffect),
+React Router for navigation, and Context API for state management.
+I also frequently integrate APIs using fetch and axios to handle data fetching and asynchronous operations.
+
+Additionally, I have some exposure to cloud services such as Azure and AWS, which has helped me understand how to deploy and manage applications in cloud environments.
+
+-----------------------------------------------------------------------------------------------
+I have over 2 years of experience in UI development
+I have worked on Modern Javascript, and  React along with Html, Css and Material Ui.
+I have also worked with next js i.e React framework that provide server-side rendering and static websites.
+In React i have used functional component , state and prps, Hooks, react router, context api, Api calling using fetch and axios
+i have aslo little knowledge of azure an aws services.
 #2
- In my recent project,I worked on a customer support chatbot interface.
+ In my recent project,I worked on a case study app.
 The project aimed to streamline customer interaction by providing instant response through a chatbot and reducing wait times. 
 
 where my role is responsible for designing and implementing the user interface. This includes creating resuable components for chat message , input field ,filter dropdown and buttons. I have used hooks  for state mangement ,  Axois for calling api , and creating a dropdown to refine the search .
